@@ -1,0 +1,19 @@
+
+mkotlin:S1172/"(Remove these unused function parameters.(Ìåä8•æ»ğ¢2J$4783cf9a-6d0d-4c05-9a87-6349dd359118
+Skotlin:S1172‘"3Remove this unused function parameter "lottieJson".(åûÑá8­¾éò¢2
+hkotlin:S125_"Remove this commented out code.(ÙÙŞ»ÿÿÿÿÿ8—æ»ğ¢2J$3a5cf66c-2da3-4de1-aa57-9f901e0cd760
+ckotlin:S125¥"Remove this commented out code.(è»»_8˜æ»ğ¢2J$ead15357-a3c9-4280-817c-af3922ec5e89
+bkotlin:S6310‰"Avoid hardcoded dispatchers.(†Ã»À8™æ»ğ¢2J$f9dc847e-b516-4e72-9938-d2934d9042b1
+vkotlin:S1481^",Remove this unused "context" local variable.(˜®¾‚øÿÿÿÿ8œæ»ğ¢2J$673dcc89-5f52-48b2-92f1-1487dbda2aa8
+dkotlin:S1128"Remove this unused import.(„¦š¶úÿÿÿÿ8æ»ğ¢2J$d981419c-c0eb-47b3-8183-054aa6be7913
+dkotlin:S1128
+"Remove this unused import.(½ùÒ»ÿÿÿÿÿ8úŞÓğ¢2J$4aec0618-2225-4750-ac50-8edae18746a4
+_kotlin:S1128"Remove this unused import.(™éç8¼‘Óğ¢2J$28f9fc90-e7d0-44a2-8c34-07bf4da24f8a
+_kotlin:S1128"Remove this unused import.(ÿüâä8æ»ğ¢2J$9853b0f8-0aea-40be-a0fc-838294d9c6b0
+_kotlin:S1128"Remove this unused import.(ÏòæÇ8æ»ğ¢2J$fdbd9484-0d42-4c73-8c33-414e4e63097f
+dkotlin:S1128 "Remove this unused import.(»¬•»úÿÿÿÿ8æ»ğ¢2J$ecaf493b-f1da-4c00-8091-dbeab5cb2ede
+_kotlin:S1128""Remove this unused import.(Íó¡¡8æ»ğ¢2J$87fa6494-59c7-4662-b9f5-f5bb07f5da0c
+_kotlin:S1128#"Remove this unused import.(ƒğ°Ò8æ»ğ¢2J$bdd1654d-7916-4424-ac71-e2b7f1162cb3
+dkotlin:S1128$"Remove this unused import.(šòÕ©ùÿÿÿÿ8æ»ğ¢2J$275babac-1b45-4e35-a200-62e167af5dd5
+_kotlin:S1128)"Remove this unused import.(Åİ£š8æ»ğ¢2J$869d37d0-6c91-4e83-99fc-30b1a1da01b9
+˜kotlin:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(åûÑá8æ»ğ¢2J$2fe697e1-a99b-4498-a0a8-4ac19406adc6
