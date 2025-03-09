@@ -1,7 +1,7 @@
 # Dynamic Lottie Changes in Android
 
 
-This project demonstrates how to dynamically modify text, color, and size inside a Lottie animation at runtime in Jetpack Compose. It allows users to personalize animations before rendering them in the app.
+This project demonstrates how to dynamically modify text, color, and size inside a Lottie animation at runtime in Jetpack Compose. It allows users to personalize animations while rendering them in the app.
 
 ## 🚀 Features
 - Modify Lottie animation JSON dynamically before loading it
